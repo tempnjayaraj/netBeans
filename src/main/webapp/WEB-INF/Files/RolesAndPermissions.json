@@ -1,0 +1,34 @@
+{
+    "roleGroup":[
+        {
+            "Admin":{
+                "users":["Saran", "Maran","Annie Lynci"],
+                "permissions":["To Create","To Save","To Submit","To Approve","To Authorize"]
+            }
+        },
+        {
+            "Developer":{
+                "users":["Mohan Raj","Mohan Babu","Keerthana"],
+                "permissions":["To Create","To Save","To Submit","To Approve"]
+            }
+        },
+        {
+            "Employee":{
+                "users":["Faheem Basha"],
+                "permissions":["To Create","To Save","To Submit"]
+            }
+        },
+        {
+            "User":{
+                "users":["Vini Joel Verghese"],
+                "permissions":["To Create","To Save"]
+            }
+        },
+        {
+            "External_User":{
+                "users":["Johnson Jayaraj"],
+                "permissions":["To Create"]
+            }
+        }
+    ]
+}
